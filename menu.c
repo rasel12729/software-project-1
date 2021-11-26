@@ -55,11 +55,11 @@ printf(GRN"The addition of "RE);
 
 printf(MAG"%d "RE,a);
 
-printf(RED"and "RE);
+printf(GRN"and "RE);
 
 printf(MAG"%d "RE,b);
 
-printf(RED"is "RE);
+printf(GRN"is "RE);
 
 printf(MAG"%d .\n"RE,c);
 
